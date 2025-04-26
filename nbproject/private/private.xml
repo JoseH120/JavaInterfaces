@@ -2,6 +2,12 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/C:/dev/jse/JavaInterfaces/src/interfaces/defaultmethods/TimeClient.java</file>
+            <file>file:/C:/dev/jse/JavaInterfaces/src/interfaces/defaultmethods/TimeClientPlus.java</file>
+            <file>file:/C:/dev/jse/JavaInterfaces/src/interfaces/defaultmethods/Test2.java</file>
+            <file>file:/C:/dev/jse/JavaInterfaces/src/interfaces/defaultmethods/Test1.java</file>
+            <file>file:/C:/dev/jse/JavaInterfaces/src/interfaces/defaultmethods/SimpleTimeClient.java</file>
+        </group>
     </open-files>
 </project-private>

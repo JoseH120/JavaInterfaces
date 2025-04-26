@@ -1,4 +1,4 @@
-package interfacesdemo;
+package interfaces.demo;
 
 public class InterfacesDemo {
 
